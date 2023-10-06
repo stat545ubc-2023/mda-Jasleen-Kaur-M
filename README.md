@@ -1,6 +1,5 @@
 # mda-project-template
 
-
 This is the readme file for my milestone project
 
 Currently, the milestone project works on the data exploration, wrangling and visualization of dataset cancer_sample
